@@ -1,0 +1,54 @@
+html {
+    font-size: 22px;
+}
+body {
+    background-color: #000;
+    color: whitesmoke;
+}
+#corn {
+    background-color: #192;
+    font-size: 100px;
+    height: 100px;
+    width: 420px;
+    position: relative;
+    margin-bottom: 0px;
+     
+}
+#cat {
+    background-color: #162;
+    font-size: 40px;
+    width: 400px;
+    margin-top: 0px;
+}
+
+#quiz {
+    background-color: #162;
+    border: #192;
+    
+    position: absolute;
+    right: 35.7%;
+    top: 47.8%;
+}
+
+#congrats1 {
+    font-size: 50px;
+    position: absolute;
+    right: 33.8%;
+}
+
+#test {
+    font-size: 10px;
+    position: absolute;
+    right: 57%;
+    top: 50.3%;
+    z-index: 1000;
+}
+.none {
+    display:none;
+}
+.tests {
+    position: fixed;
+    top: 13.6%;
+    right: 40%;
+    
+}
